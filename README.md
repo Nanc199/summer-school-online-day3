@@ -11,7 +11,7 @@ A simple personal blog layout using **HTML** and **CSS Grid**. It includes secti
 - `index.html` – Main structure  
 - `style.css` – Styling and layout
 
-## 🖥 Preview
+##  Preview
 Responsive layout with sticky sidebar and clean design.
 
 ##  Author
